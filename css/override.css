@@ -2,7 +2,7 @@ body{
     background-image: var(--light-background-pattern);
     background-size: 50%;
     background-repeat: repeat;
-    background-color: aqua;
+    background-color: aqua !important;
     font-family: 'Ibarra Real Nova', serif;
     color: var(--light-main);
     font-size: 1.5em;
