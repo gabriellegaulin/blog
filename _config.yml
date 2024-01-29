@@ -5,8 +5,8 @@ description: "Some short description of your blog can go here." # This will show
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
+#twitter_username: "twitteruser"
+#github_username: "githubuser"
 linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
@@ -19,6 +19,8 @@ linkedin_username: "linkedinuser"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
+
+google_analytics: G-MRW2F5PDNL
 
 rss: rss
 
@@ -40,3 +42,8 @@ defaults:
       type: post
     values:
       tags: Other
+
+url: https://gabriellegaulin.com/blog
+baseurl: "/blog"
+production_url : https://gabriellegaulin.com/blog
+BASE_PATH : https://gabriellegaulin.com/blog
