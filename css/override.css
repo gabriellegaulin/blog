@@ -1,7 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
 body{
     font-family: 'Ibarra Real Nova', serif;
 }
-/*original css*/ 
+
+
+/*chad's css*/ 
 hr {
   margin-top: 30px;
   margin-bottom: 20px;
