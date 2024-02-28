@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
+title: Chueok Studio Blog
 logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+description: designing through the pain
 
 
 #-------------------------------
@@ -31,7 +31,7 @@ disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example
 #-------------------------------
 # Instagram Feed
 instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instagram-profile: chueok_studio # Add instagram username
 
 
 #-------------------------------
