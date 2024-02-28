@@ -7,22 +7,22 @@ description: "making good memories in art, design, architecture, and language" #
 #email: "example@mail.com"
 #twitter_username: "twitteruser"
 #github_username: "githubuser"
-linkedin_username: "gabrielle-gaulin-0322"
+#linkedin_username: "gabrielle-gaulin-0322"
 #facebook_username: username
 #flickr_username: username
-instagram_username: chueok_studio
+#instagram_username: chueok_studio
 #pinterest_username: username
-youtube_username: chueok.studio
+#youtube_username: chueok.studio
 #googleplus_username: +username
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+remote_theme: "zolan"
 
-google_analytics: G-MRW2F5PDNL
+#google_analytics: G-MRW2F5PDNL
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
