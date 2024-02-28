@@ -3,6 +3,7 @@ layout: post
 title: "My Design Process"
 description: "working from a spark versus working from a brief: which do you prefer?"
 tags: design process
+comments: true
 ---
 
 ## My Design Process
