@@ -1,7 +1,7 @@
 .hero {
   padding: 80px 0;
   margin-bottom: 80px;
-  background-image: url("/images/Bojagi_multi.jpg");
+  background-image: $hero-bgd;
   background-repeat: repeat;
   background-color: $third;
 
@@ -14,8 +14,9 @@
     flex-direction: column;
     justify-content: center;
     width: 100%;
-    padding: 0 40px 0 0;
+    padding: 0 40px 10px 10px;
     background-color: #fff;
+    border-radius: 10px;
     
     .hero__title {
       font-size: 38px;
