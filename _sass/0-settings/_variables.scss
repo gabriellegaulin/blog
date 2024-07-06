@@ -15,21 +15,29 @@ $global-transition: all .35s;
 // *****************
 // Color Variables
 // *****************
-$brand-color: #f6b141;
-$dark: #393e46;
+$brand-color: #EEC686; //gold
+$dark: #3A444B; //slate
 $gray: #bbbbbb;
+$second: #4FB0AE; //cheongja
+$third: #717548; // jade
+$red: #9C1B31; // oxblood
 $light-gray: #e6eef0;
 $white: #ffffff;
 $black: #000000;
 
+
+
+
+
+
 // Background Colors
-$background-color: $white;
+$background-color: $second;
 
 // Body Color
 $text-color: $dark;
 
 // Headings
-$heading-font-color: $dark;
+$heading-font-color: $second;
 
 // Links
 $link-color: $brand-color;
@@ -50,12 +58,12 @@ $base-font-size: 16px;
 $base-font-style: normal;
 $base-font-variant: normal;
 $base-font-weight: normal;
-$base-font-family: 'Roboto', Helvetica Neue, Helvetica, Arial, sans-serif;
+$base-font-family: 'Ibarra Real Nova', serif;
 $base-line-height: 26px;
 
 // Headings
 $heading-font-weight: 700;
-$heading-font-family: 'Roboto', Helvetica Neue, Helvetica, Arial, sans-serif;
+$heading-font-family: 'Ibarra Real Nova', serif;
 
 $font-size-h1:  36px;
 $font-size-h2:  28px;
