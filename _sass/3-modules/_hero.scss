@@ -1,7 +1,9 @@
 .hero {
   padding: 80px 0;
   margin-bottom: 80px;
-  background-image: $hero-bgd, $third; 
+  background-image: url($hero-bgd);
+  background-repeat: repeat;
+  background-color: $third;
 
   .last-item {
     display: flex;

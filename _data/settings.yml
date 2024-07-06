@@ -9,7 +9,7 @@ description: designing through the pain
 # Author Settings
 author:
   name: Gigi
-  image: self.jpg
+  image: 01.jpg
   say-hello: Hello, I’m Gigi :)
   bio: Study, draw, design, make, repeat. I love  travelling and reading.
 
@@ -19,8 +19,8 @@ author:
 #twitter: https://twitter.com/ # Add your Twitter handle
 #facebook: https://facebook.com/ # Add your Facebook handle
 dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: chueok_studio # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+instagram: https://www.instagram.com/chueok_studio/ # Add your Instagram handle
+pinterest: https://www.pinterest.com/gabriellegaulin/ # Add your Pinterest handle
 
 
 #-------------------------------
@@ -30,7 +30,7 @@ disqus-identifier: chueokstudio # add your shortname for Disqus Comment. For exa
 
 #-------------------------------
 # Instagram Feed
-instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+instafeed: true# To enable the instafeed, use the value true. To turn off use the value false.
 instagram-profile: chueok_studio # Add instagram username
 
 
