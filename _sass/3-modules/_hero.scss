@@ -14,12 +14,12 @@
     flex-direction: column;
     justify-content: center;
     width: 100%;
-    padding: 0 40px 0 0;
+    padding: 10px 40px 10px 10px;
     background-color: $white;
     border-radius: 10px;
     
     .hero__title {
-      font-size: 38px;
+      font-size: 24px;
       font-weight: normal;
       padding: 0 10px;
     }
@@ -28,12 +28,13 @@
       font-size: 18px;
       line-height: 32px;
       letter-spacing: 0.5px;
-      padding: 0 10px;
+      padding: 0 15px;
     }
 
     .hero__social {
       display: flex;
-      padding: 0 10px;
+      padding: 0 15px;
+      color: $red;
     }
 
     .hero__social-title {
