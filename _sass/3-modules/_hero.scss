@@ -14,13 +14,14 @@
     flex-direction: column;
     justify-content: center;
     width: 100%;
-    padding: 0 40px 10px 10px;
-    background-color: #fff;
+    padding: 0 40px 0 0;
+    background-color: $white;
     border-radius: 10px;
     
     .hero__title {
       font-size: 38px;
       font-weight: normal;
+      padding: 0 10px;
     }
 
     .hero__subtitle {
