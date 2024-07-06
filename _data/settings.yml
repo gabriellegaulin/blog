@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Gigi's DIYiary
-logo: 01.jpg # You can add own logo.
+logo: GG_seal_blue.jpg # You can add own logo.
 description: designing through the pain
 
 
@@ -9,7 +9,7 @@ description: designing through the pain
 # Author Settings
 author:
   name: Gigi
-  image: chueok_logo.png
+  image: self.jpg
   say-hello: Hello, I’m Gigi :)
   bio: Study, draw, design, make, repeat. I love  travelling and reading.
 
