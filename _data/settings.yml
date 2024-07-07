@@ -9,7 +9,7 @@ description: designing through the pain
 # Author Settings
 author:
   name: Gigi
-  image: 02.jpg
+  image: 02.jpg #--- not currently working, hard linked in hero.html
   say-hello: Hello, I’m Gigi :)
   bio: Study, draw, design, make, repeat. I love  travelling and reading.
 
