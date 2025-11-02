@@ -2,6 +2,7 @@
 layout: post
 title: "Tokarczuk - Flights"
 description: "what does it really mean to travel? and what does preservation achieve?"
+image: 251012/overview.jpg
 tags: books
 ---
 

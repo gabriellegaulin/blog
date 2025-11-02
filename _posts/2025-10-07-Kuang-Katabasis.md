@@ -2,10 +2,12 @@
 layout: post
 title: "Kuang - Katabasis"
 description: "how far would you go for academic validation?"
+image: 251007/overview.jpg
 tags: books
+
 ---
 
-## Katabais
+## Katabasis
 ### by R.F. Kuang
 
 ### TL;DR : an academic thriller page turner with a villain who definitely deserves to be in hell

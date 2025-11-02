@@ -2,6 +2,7 @@
 layout: post
 title: "Kuang - Katabasis"
 description: "how far would you go for academic validation?"
+image: 251007/overview.jpg
 tags: books
 ---
 

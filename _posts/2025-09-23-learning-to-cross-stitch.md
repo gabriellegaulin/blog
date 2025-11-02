@@ -2,6 +2,7 @@
 layout: post
 title: "Learning to Cross-stitch"
 description: ""
+image: 250923/02.jpg
 tags: thoughts design
 ---
 
